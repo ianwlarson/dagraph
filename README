@@ -1,0 +1,4 @@
+
+This is a very simple graph library that allows detecting cycles.
+
+See dagraph.py file unittests for information as to how the library is used
